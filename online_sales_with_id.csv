@@ -1,0 +1,201 @@
+order_id,order_date,customer_name,product_name,amount,product_id,region,payment_method
+1,09-11-2024,Zeeshan Ansari,Monitor,15000,P009,West,Cash on Delivery
+2,20-08-2024,Mr. Kyle Armstrong,Monitor,15000,P009,West,UPI
+3,21-09-2024,Anita Stevens,Monitor,15000,P009,West,Net Banking
+4,15-10-2024,Brenda Adams,Printer,8000,P007,East,UPI
+5,18-12-2024,Yvonne Thomas,Laptop,75000,P001,East,Net Banking
+6,14-09-2024,Justin Hamilton,Router,4000,P010,West,UPI
+7,16-01-2025,Xavier Lawrence,Headphones,3000,P004,North,Net Banking
+8,01-01-2025,Adrienne Floyd,Camera,50000,P006,South,Debit Card
+9,21-01-2025,Wendy Carter,Headphones,3000,P004,West,Cash on Delivery
+10,28-12-2024,Thomas Alvarez,Laptop,75000,P001,West,Cash on Delivery
+11,14-03-2025,Joseph Johnson,Monitor,15000,P009,South,Debit Card
+12,19-01-2025,Randall Chapman,Monitor,15000,P009,North,Debit Card
+13,27-11-2024,Sabrina Fritz,Printer,8000,P007,East,Debit Card
+14,25-01-2025,Donna Bauer,Router,4000,P010,North,Debit Card
+15,26-03-2025,Michael Herman,Router,4000,P010,West,Credit Card
+16,07-10-2024,Joseph Clark,Monitor,15000,P009,South,Cash on Delivery
+17,17-02-2025,Wayne Martin,Router,4000,P010,East,UPI
+18,03-09-2024,Mary Garcia,Printer,8000,P007,East,UPI
+19,07-04-2025,Mr. Jonathan York,Camera,50000,P006,West,Debit Card
+20,31-08-2024,Lori Christian,Printer,8000,P007,East,Net Banking
+21,27-02-2025,Kimberly Harris,Tablet,15000,P003,East,Credit Card
+22,01-08-2025,Samantha Barrera,Laptop,75000,P001,East,Credit Card
+23,25-04-2025,Carol Clements,Keyboard,2000,P008,North,Credit Card
+24,25-12-2024,Tyler Soto,Printer,8000,P007,South,Cash on Delivery
+25,18-06-2025,Lisa Stephens,Printer,8000,P007,West,Cash on Delivery
+26,24-05-2025,Christopher Santiago,Router,4000,P010,North,UPI
+27,01-06-2025,Laura Rodriguez,Keyboard,2000,P008,East,Cash on Delivery
+28,16-01-2025,Martha Palmer,Printer,8000,P007,East,Debit Card
+29,16-08-2024,Randall Jimenez,Tablet,15000,P003,East,Cash on Delivery
+30,14-09-2024,Shannon Martinez,Smartphone,25000,P002,South,UPI
+31,24-12-2024,Mr. Dylan Whitehead,Monitor,15000,P009,South,Cash on Delivery
+32,03-05-2025,James Boone,Camera,50000,P006,West,UPI
+33,01-12-2024,Amy King,Headphones,3000,P004,South,Credit Card
+34,25-02-2025,Heather Mitchell,Headphones,3000,P004,East,Debit Card
+35,12-09-2024,Heather Brown,Printer,8000,P007,West,UPI
+36,19-06-2025,Kim Davis,Smartphone,25000,P002,South,UPI
+37,18-08-2024,Taylor Morrison,Laptop,75000,P001,West,UPI
+38,28-12-2024,Mrs. Jane Bray,Camera,50000,P006,South,UPI
+39,05-07-2025,Nicole Mora,Router,4000,P010,East,Net Banking
+40,23-11-2024,Kathryn Collins,Monitor,15000,P009,North,Debit Card
+41,03-03-2025,Jonathan Castillo,Keyboard,2000,P008,West,UPI
+42,22-03-2025,Gerald Petersen,Smartwatch,12000,P005,West,Cash on Delivery
+43,17-06-2025,Jennifer Bennett,Camera,50000,P006,South,Debit Card
+44,17-03-2025,Amanda Gomez,Laptop,75000,P001,West,Net Banking
+45,04-06-2025,Michael Jenkins,Smartphone,25000,P002,East,Net Banking
+46,30-04-2025,Kyle Hicks,Tablet,15000,P003,North,Credit Card
+47,13-10-2024,Christina Yang,Laptop,75000,P001,North,UPI
+48,19-09-2024,Jamie Greene,Headphones,3000,P004,North,Debit Card
+49,12-11-2024,Victoria Blair,Printer,8000,P007,South,Debit Card
+50,31-07-2025,Amber Walker,Smartwatch,12000,P005,East,Net Banking
+51,29-03-2025,Joseph Anderson,Keyboard,2000,P008,East,Net Banking
+52,18-08-2024,Kimberly Parrish,Smartphone,25000,P002,South,Credit Card
+53,08-09-2024,Gerald Kennedy,Smartwatch,12000,P005,North,Credit Card
+54,08-12-2024,Nancy Ramirez,Laptop,75000,P001,North,Cash on Delivery
+55,23-10-2024,Elizabeth Hamilton,Monitor,15000,P009,West,Net Banking
+56,16-08-2024,Charles Turner,Keyboard,2000,P008,North,Credit Card
+57,22-04-2025,Karina Kim,Headphones,3000,P004,West,UPI
+58,26-05-2025,Joy Flores,Tablet,15000,P003,West,Net Banking
+59,11-12-2024,Jack Flores,Tablet,15000,P003,North,Debit Card
+60,19-11-2024,Savannah Ramos,Keyboard,2000,P008,East,Credit Card
+61,06-02-2025,Toni Ortiz,Laptop,75000,P001,South,UPI
+62,14-12-2024,Dominique Mclaughlin,Printer,8000,P007,South,Cash on Delivery
+63,20-01-2025,Kimberly Sanders,Smartwatch,12000,P005,North,Cash on Delivery
+64,17-11-2024,Eugene Russell,Tablet,15000,P003,South,Debit Card
+65,19-07-2025,Kathryn Daniels,Smartwatch,12000,P005,West,UPI
+66,14-10-2024,Pamela Ruiz,Camera,50000,P006,East,UPI
+67,12-08-2025,Brandi Lopez,Headphones,3000,P004,East,UPI
+68,01-03-2025,Alejandro Wallace,Headphones,3000,P004,North,Credit Card
+69,22-11-2024,Roy Stuart,Smartphone,25000,P002,North,Debit Card
+70,28-12-2024,William Rose,Smartwatch,12000,P005,South,Credit Card
+71,29-07-2025,Justin Rhodes,Camera,50000,P006,North,Debit Card
+72,31-03-2025,Meghan Hughes,Tablet,15000,P003,West,Debit Card
+73,11-09-2024,Stacy Cox,Monitor,15000,P009,West,Credit Card
+74,06-05-2025,Michelle Wilson,Router,4000,P010,East,Credit Card
+75,09-02-2025,Tabitha Hill,Monitor,15000,P009,East,Credit Card
+76,13-04-2025,Mr. Ricardo Morales,Monitor,15000,P009,South,UPI
+77,06-06-2025,Shawn Williams,Tablet,15000,P003,East,Net Banking
+78,22-02-2025,Joseph Sanchez,Keyboard,2000,P008,East,Debit Card
+79,18-04-2025,Eddie Jones,Headphones,3000,P004,South,Net Banking
+80,26-07-2025,Charles Crawford,Smartwatch,12000,P005,North,UPI
+81,25-06-2025,Shannon Garcia,Monitor,15000,P009,East,Cash on Delivery
+82,02-07-2025,Debra Jensen,Printer,8000,P007,West,UPI
+83,28-11-2024,Casey Harris,Smartphone,25000,P002,East,UPI
+84,23-08-2024,Tammy Johnson,Smartphone,25000,P002,East,UPI
+85,20-03-2025,Rachael Curry,Tablet,15000,P003,West,Net Banking
+86,12-11-2024,Abigail Mcpherson,Smartphone,25000,P002,West,Cash on Delivery
+87,02-04-2025,Carlos Watkins,Smartphone,25000,P002,North,Debit Card
+88,21-05-2025,Victor Bell,Camera,50000,P006,South,Credit Card
+89,24-09-2024,Brenda Dixon,Smartphone,25000,P002,East,Debit Card
+90,22-07-2025,Alison Olson,Camera,50000,P006,South,UPI
+91,26-07-2025,Marissa Martin,Smartphone,25000,P002,West,Net Banking
+92,29-09-2024,Dustin Keller,Keyboard,2000,P008,West,Cash on Delivery
+93,01-11-2024,Timothy Gordon,Router,4000,P010,North,Credit Card
+94,17-12-2024,Charles Garcia,Headphones,3000,P004,South,Credit Card
+95,27-08-2024,Jason Sanchez,Smartphone,25000,P002,North,Credit Card
+96,12-07-2025,Melissa Lee,Keyboard,2000,P008,West,Credit Card
+97,16-04-2025,Kevin Davis,Laptop,75000,P001,South,Net Banking
+98,17-10-2024,Aaron Johnson,Monitor,15000,P009,North,Debit Card
+99,21-10-2024,Troy Williams,Headphones,3000,P004,North,UPI
+100,30-11-2024,Betty Edwards,Laptop,75000,P001,South,Cash on Delivery
+101,05-01-2025,Justin Lloyd,Laptop,75000,P001,South,Credit Card
+102,01-02-2025,Kayla Hunter,Smartphone,25000,P002,West,Debit Card
+103,02-01-2025,Andrew Adams,Router,4000,P010,South,Credit Card
+104,11-01-2025,Angel Thompson,Monitor,15000,P009,East,Debit Card
+105,15-05-2025,Benjamin Griffin,Smartwatch,12000,P005,South,UPI
+106,11-05-2025,Maria Schultz,Camera,50000,P006,West,UPI
+107,26-07-2025,Kathryn Hughes,Smartphone,25000,P002,North,Credit Card
+108,21-09-2024,Jennifer Rodriguez,Tablet,15000,P003,East,UPI
+109,17-03-2025,James Melendez,Monitor,15000,P009,West,Debit Card
+110,27-10-2024,Michael Miller,Smartphone,25000,P002,South,Net Banking
+111,12-09-2024,Diane Knapp,Monitor,15000,P009,East,UPI
+112,01-04-2025,Paul Sexton,Camera,50000,P006,South,Credit Card
+113,08-03-2025,Margaret Gibbs,Router,4000,P010,South,Debit Card
+114,15-05-2025,Michael Jones,Headphones,3000,P004,North,Credit Card
+115,11-01-2025,Diana Duke,Laptop,75000,P001,East,UPI
+116,04-10-2024,Alexis Anderson,Keyboard,2000,P008,North,Debit Card
+117,13-03-2025,Audrey Lee,Monitor,15000,P009,South,Debit Card
+118,21-05-2025,Wendy Ho,Headphones,3000,P004,North,Credit Card
+119,03-05-2025,Christopher Carter,Smartphone,25000,P002,East,Debit Card
+120,24-09-2024,Mary Munoz,Tablet,15000,P003,North,Cash on Delivery
+121,11-07-2025,Gregory Jimenez,Keyboard,2000,P008,South,Debit Card
+122,13-05-2025,Evan Duffy,Monitor,15000,P009,East,Credit Card
+123,21-10-2024,Sean Nunez,Tablet,15000,P003,West,Credit Card
+124,11-06-2025,Paul Wallace,Tablet,15000,P003,North,UPI
+125,21-01-2025,Brooke Carroll,Tablet,15000,P003,West,Net Banking
+126,14-12-2024,Matthew Taylor,Keyboard,2000,P008,East,Net Banking
+127,18-05-2025,Olivia Savage,Keyboard,2000,P008,East,UPI
+128,21-03-2025,William Martinez,Camera,50000,P006,North,Debit Card
+129,14-10-2024,Thomas Goodman,Laptop,75000,P001,East,Cash on Delivery
+130,26-04-2025,William Hawkins,Tablet,15000,P003,South,UPI
+131,25-02-2025,Mark Walls,Laptop,75000,P001,North,Debit Card
+132,30-04-2025,George Davis,Camera,50000,P006,East,Credit Card
+133,07-11-2024,Caleb Hodges,Tablet,15000,P003,West,UPI
+134,25-08-2024,Christina Donaldson,Laptop,75000,P001,North,UPI
+135,09-01-2025,Ronald Kim,Smartwatch,12000,P005,West,UPI
+136,11-02-2025,Jill Stanley,Tablet,15000,P003,South,Net Banking
+137,02-02-2025,Benjamin Barton,Keyboard,2000,P008,South,Cash on Delivery
+138,17-01-2025,Austin Davis,Router,4000,P010,South,Cash on Delivery
+139,25-09-2024,Alicia Mccoy,Keyboard,2000,P008,South,Cash on Delivery
+140,20-07-2025,Richard Leach,Tablet,15000,P003,West,Cash on Delivery
+141,12-08-2025,John Bush,Keyboard,2000,P008,South,UPI
+142,09-05-2025,Rebecca Collins,Smartwatch,12000,P005,South,Debit Card
+143,11-09-2024,Jennifer Torres,Camera,50000,P006,East,Debit Card
+144,14-03-2025,Brandon Moran,Camera,50000,P006,North,Cash on Delivery
+145,05-10-2024,Mrs. Alexandria Wong,Tablet,15000,P003,South,Credit Card
+146,17-12-2024,Jeffrey Knox,Smartwatch,12000,P005,West,Credit Card
+147,19-06-2025,Brandon Haley,Laptop,75000,P001,North,UPI
+148,28-10-2024,Brianna West,Camera,50000,P006,West,Cash on Delivery
+149,16-09-2024,Sylvia Hansen,Keyboard,2000,P008,South,Cash on Delivery
+150,11-06-2025,Elizabeth Stevens,Laptop,75000,P001,South,Net Banking
+151,14-03-2025,Robert Anderson,Tablet,15000,P003,South,Debit Card
+152,17-12-2024,Amanda Mcmillan,Smartwatch,12000,P005,North,Credit Card
+153,18-05-2025,Marie Khan,Smartphone,25000,P002,North,UPI
+154,18-12-2024,Elizabeth Butler,Smartphone,25000,P002,East,UPI
+155,09-09-2024,Austin Jimenez,Smartwatch,12000,P005,North,Cash on Delivery
+156,12-01-2025,Richard Park,Headphones,3000,P004,East,Debit Card
+157,08-03-2025,Kimberly Stephens,Monitor,15000,P009,South,Debit Card
+158,22-06-2025,Caroline Rodriguez,Router,4000,P010,South,Net Banking
+159,24-10-2024,Tracy Elliott,Camera,50000,P006,South,Net Banking
+160,22-09-2024,Daniel Dorsey,Router,4000,P010,West,UPI
+161,11-11-2024,Brenda Harris,Smartwatch,12000,P005,West,Net Banking
+162,28-04-2025,Nicole Woods,Router,4000,P010,North,Debit Card
+163,07-08-2025,Ann Shaw,Tablet,15000,P003,East,Cash on Delivery
+164,21-10-2024,Alexander Rich,Printer,8000,P007,West,UPI
+165,22-09-2024,Anthony Kemp,Printer,8000,P007,South,Debit Card
+166,07-03-2025,Steven Diaz,Smartphone,25000,P002,West,UPI
+167,02-05-2025,Kaylee Sosa,Laptop,75000,P001,East,UPI
+168,15-09-2024,Scott Hall,Tablet,15000,P003,North,Debit Card
+169,25-11-2024,Sherry Rivera,Smartphone,25000,P002,West,Net Banking
+170,05-04-2025,Zachary Anderson,Camera,50000,P006,North,Cash on Delivery
+171,23-03-2025,Kimberly Olsen,Router,4000,P010,West,Debit Card
+172,02-09-2024,Stephen Medina,Monitor,15000,P009,North,UPI
+173,20-05-2025,Linda Ryan,Camera,50000,P006,South,Debit Card
+174,11-11-2024,Ashley Phillips,Router,4000,P010,South,Debit Card
+175,27-03-2025,Joel Hamilton,Printer,8000,P007,South,Cash on Delivery
+176,02-12-2024,Terry Moore,Keyboard,2000,P008,North,Cash on Delivery
+177,24-12-2024,Antonio Hampton,Tablet,15000,P003,North,UPI
+178,06-11-2024,Jeff Fischer,Printer,8000,P007,North,Net Banking
+179,14-08-2024,Zachary Young,Smartwatch,12000,P005,South,UPI
+180,01-11-2024,Stacy Andrews,Smartwatch,12000,P005,East,UPI
+181,26-01-2025,Amanda King,Laptop,75000,P001,South,Cash on Delivery
+182,13-04-2025,Jean Washington,Camera,50000,P006,North,Net Banking
+183,12-01-2025,Aaron Huffman,Printer,8000,P007,East,Debit Card
+184,23-11-2024,Eddie Pearson,Printer,8000,P007,West,Cash on Delivery
+185,02-11-2024,Rachel Carey,Tablet,15000,P003,East,Credit Card
+186,19-01-2025,Leah Savage,Smartwatch,12000,P005,North,Cash on Delivery
+187,15-04-2025,Matthew Horton,Headphones,3000,P004,North,UPI
+188,27-06-2025,Nicole Lee,Laptop,75000,P001,East,Cash on Delivery
+189,27-09-2024,Dawn Hernandez,Headphones,3000,P004,South,UPI
+190,11-09-2024,Allen Nelson,Keyboard,2000,P008,North,Net Banking
+191,17-03-2025,Christina Simon,Router,4000,P010,South,Net Banking
+192,20-06-2025,Norman Smith,Tablet,15000,P003,North,UPI
+193,20-08-2024,Mark Erickson,Smartphone,25000,P002,South,UPI
+194,30-08-2024,Theresa Williams,Keyboard,2000,P008,East,UPI
+195,31-05-2025,Michael Campos,Monitor,15000,P009,North,Cash on Delivery
+196,24-05-2025,William White,Monitor,15000,P009,West,UPI
+197,19-06-2025,Robert Payne,Router,4000,P010,North,UPI
+198,09-12-2024,Sandra Turner,Smartwatch,12000,P005,East,UPI
+199,26-11-2024,Rachel Wilson,Laptop,75000,P001,North,Net Banking
+200,26-02-2025,Dr. Jenna Rodriguez,Router,4000,P010,South,Debit Card
